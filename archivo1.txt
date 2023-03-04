@@ -1,1 +1,6 @@
-Hola bro, me siento desolado con un arma en la mano
+<<<<<<< HEAD
+Hola bro, me siento desolado con un arma en la manos y soy de boca
+https://www.redhat.com/sysadmin/introduction-vi-editor
+=======
+Hola broo gauxho
+>>>>>>> rama2
